@@ -1,0 +1,1 @@
+["Building Area (sqft)", "Floor Count", "Air Temperature (\u00b0C)", "Dew Temperature (\u00b0C)", "Wind Speed (m/s)"]
